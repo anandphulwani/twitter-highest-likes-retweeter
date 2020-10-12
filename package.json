@@ -1,0 +1,19 @@
+{
+  "name": "twitter-highest-likes-retweeter",
+  "version": "1.0.0",
+  "description": "Find the highest likes of the first tweet from the accounts provided, and retweet it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CodeDraken",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0",
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
