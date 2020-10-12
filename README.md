@@ -4,21 +4,21 @@ finds out which tweet has the maximum likes and retweet it.
 
 ## Features ##
 
-- :ballot_box_with_check: Logs-in to twitter.
-- :ballot_box_with_check: Reads multiple twitter handles topmost tweet on the wall.
-- :ballot_box_with_check: Displays tweet's text, no of likes, unique URL of the tweet.
-- :ballot_box_with_check: Calculate the tweet's with highest number of likes.
-- :ballot_box_with_check: Retweet the above found tweet.
-- :ballot_box_with_check: Check whether the tweet is already retweeted.
+- :heavy_check_mark: Logs-in to twitter.
+- :heavy_check_mark: Reads multiple twitter handles topmost tweet on the wall.
+- :heavy_check_mark: Displays tweet's text, no of likes, unique URL of the tweet.
+- :heavy_check_mark: Calculate the tweet's with highest number of likes.
+- :heavy_check_mark: Retweet the above found tweet.
+- :heavy_check_mark: Check whether the tweet is already retweeted.
 - :black_square_button: Check whether the twitter handle exists.
-- :ballot_box_with_check: Windowless/headless (hidden) mode
-- :ballot_box_with_check: Colorful console messages
+- :heavy_check_mark: Windowless/headless (hidden) mode
+- :heavy_check_mark: Colorful console messages
 
 ## Screenshot ##
-Execution Screenshot
+###### Execution Screenshot ######
 ![Run Window](https://raw.githubusercontent.com/anandphulwani/twitter-highest-likes-retweeter/master/run.png)
 
-Final Results Screenshot
+###### Final Results Screenshot ######
 ![Results Window](https://raw.githubusercontent.com/anandphulwani/twitter-highest-likes-retweeter/master/results.png)
 
 ## Requirements ##
