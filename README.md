@@ -15,9 +15,10 @@ finds out which tweet has the maximum likes and retweet it.
 - :ballot_box_with_check: Colorful console messages
 
 ## Screenshot ##
-Execution Screenshot:
+Execution Screenshot
 ![Run Window](https://raw.githubusercontent.com/anandphulwani/twitter-highest-likes-retweeter/master/run.png)
-Final Results Screenshot:
+
+Final Results Screenshot
 ![Results Window](https://raw.githubusercontent.com/anandphulwani/twitter-highest-likes-retweeter/master/results.png)
 
 ## Requirements ##
@@ -32,8 +33,8 @@ Tested on Windows 7 with Node v12.19.0 ,puppeteer v1.20.0 and chalk v2.4.2
 
 - Clone this repository. `git clone https://github.com/anandphulwani/twitter-highest-likes-retweeter.git`
 - Type `npm install`
-- In config.js, set username by configuring `login_username_or_email`, you need to replace '<< TWITTER USERNAME / EMAIL HERE >>' with your twitter username (without quotes).
-- In config.js, set password by configuring `login_password`, you need to replace '<< TWITTER PASSWORD HERE >>' with your twitter password (without quotes).
+- In config.js, set username by configuring `login_username_or_email`, you need to replace `<< TWITTER USERNAME / EMAIL HERE >>` with your twitter username.
+- In config.js, set password by configuring `login_password`, you need to replace `<< TWITTER PASSWORD HERE >>` with your twitter password.
 - Type `node index.js` (case-sensitive)
 
 ## Options ##
